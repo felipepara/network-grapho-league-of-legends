@@ -17,3 +17,5 @@ This is a Work in Progress and there are some clear next steps:
     2) balance the connection between champions, removing weak links to have a better visualization;
 
     3) add the ranks from each match, so we can better understand how each rank behaves;
+
+The html file contains an example of the output.
